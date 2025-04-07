@@ -1,0 +1,58 @@
+C:\Users\David\Desktop\PromtWPF\PromtWPF\obj\Debug\PromtWPF.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\PromtWPF\PromtWPF\obj\Debug\View\EditProductWindow.baml
+C:\Users\David\Desktop\PromtWPF\PromtWPF\obj\Debug\View\LoginWindow.baml
+C:\Users\David\Desktop\PromtWPF\PromtWPF\obj\Debug\View\ProductsWindow.baml
+C:\Users\David\Desktop\PromtWPF\PromtWPF\obj\Debug\View\RegistrationWindow.baml
+C:\Users\David\Desktop\PromtWPF\PromtWPF\obj\Debug\MainWindow.g.cs
+C:\Users\David\Desktop\PromtWPF\PromtWPF\obj\Debug\View\EditProductWindow.g.cs
+C:\Users\David\Desktop\PromtWPF\PromtWPF\obj\Debug\View\LoginWindow.g.cs
+C:\Users\David\Desktop\PromtWPF\PromtWPF\obj\Debug\View\ProductsWindow.g.cs
+C:\Users\David\Desktop\PromtWPF\PromtWPF\obj\Debug\View\RegistrationWindow.g.cs
+C:\Users\David\Desktop\PromtWPF\PromtWPF\obj\Debug\App.g.cs
+C:\Users\David\Desktop\PromtWPF\PromtWPF\obj\Debug\PromtWPF_Content.g.cs
+C:\Users\David\Desktop\PromtWPF\PromtWPF\obj\Debug\PromtWPF_MarkupCompile.cache
+C:\Users\David\Desktop\PromtWPF\PromtWPF\obj\Debug\PromtWPF_MarkupCompile.lref
+C:\Users\David\Desktop\PromtWPF\PromtWPF\bin\Debug\PromtWPF.exe.config
+C:\Users\David\Desktop\PromtWPF\PromtWPF\bin\Debug\PromtWPF.exe
+C:\Users\David\Desktop\PromtWPF\PromtWPF\bin\Debug\PromtWPF.pdb
+C:\Users\David\Desktop\PromtWPF\PromtWPF\bin\Debug\EntityFramework.dll
+C:\Users\David\Desktop\PromtWPF\PromtWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\David\Desktop\PromtWPF\PromtWPF\bin\Debug\EntityFramework.xml
+C:\Users\David\Desktop\PromtWPF\PromtWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\David\Desktop\PromtWPF\PromtWPF\obj\Debug\MainWindow.baml
+C:\Users\David\Desktop\PromtWPF\PromtWPF\obj\Debug\PromtWPF.g.resources
+C:\Users\David\Desktop\PromtWPF\PromtWPF\obj\Debug\PromtWPF.Properties.Resources.resources
+C:\Users\David\Desktop\PromtWPF\PromtWPF\obj\Debug\PromtWPF.csproj.GenerateResource.cache
+C:\Users\David\Desktop\PromtWPF\PromtWPF\obj\Debug\PromtWPF.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\PromtWPF\PromtWPF\obj\Debug\PromtWPF.csproj.Up2Date
+C:\Users\David\Desktop\PromtWPF\PromtWPF\obj\Debug\PromtWPF.exe
+C:\Users\David\Desktop\PromtWPF\PromtWPF\obj\Debug\PromtWPF.pdb
+C:\Users\Student 3\source\repos\PromtWPF\PromtWPF\obj\Debug\PromtWPF.csproj.AssemblyReference.cache
+C:\Users\Student 3\source\repos\PromtWPF\PromtWPF\obj\Debug\View\EditProductWindow.baml
+C:\Users\Student 3\source\repos\PromtWPF\PromtWPF\obj\Debug\View\LoginWindow.baml
+C:\Users\Student 3\source\repos\PromtWPF\PromtWPF\obj\Debug\View\ProductsWindow.baml
+C:\Users\Student 3\source\repos\PromtWPF\PromtWPF\obj\Debug\View\RegistrationWindow.baml
+C:\Users\Student 3\source\repos\PromtWPF\PromtWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Student 3\source\repos\PromtWPF\PromtWPF\obj\Debug\View\EditProductWindow.g.cs
+C:\Users\Student 3\source\repos\PromtWPF\PromtWPF\obj\Debug\View\LoginWindow.g.cs
+C:\Users\Student 3\source\repos\PromtWPF\PromtWPF\obj\Debug\View\ProductsWindow.g.cs
+C:\Users\Student 3\source\repos\PromtWPF\PromtWPF\obj\Debug\View\RegistrationWindow.g.cs
+C:\Users\Student 3\source\repos\PromtWPF\PromtWPF\obj\Debug\App.g.cs
+C:\Users\Student 3\source\repos\PromtWPF\PromtWPF\obj\Debug\PromtWPF_Content.g.cs
+C:\Users\Student 3\source\repos\PromtWPF\PromtWPF\obj\Debug\PromtWPF_MarkupCompile.cache
+C:\Users\Student 3\source\repos\PromtWPF\PromtWPF\obj\Debug\PromtWPF_MarkupCompile.lref
+C:\Users\Student 3\source\repos\PromtWPF\PromtWPF\obj\Debug\PromtWPF.exe
+C:\Users\Student 3\source\repos\PromtWPF\PromtWPF\obj\Debug\PromtWPF.pdb
+C:\Users\Student 3\source\repos\PromtWPF\PromtWPF\bin\Debug\PromtWPF.exe.config
+C:\Users\Student 3\source\repos\PromtWPF\PromtWPF\bin\Debug\PromtWPF.exe
+C:\Users\Student 3\source\repos\PromtWPF\PromtWPF\bin\Debug\PromtWPF.pdb
+C:\Users\Student 3\source\repos\PromtWPF\PromtWPF\bin\Debug\EntityFramework.dll
+C:\Users\Student 3\source\repos\PromtWPF\PromtWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student 3\source\repos\PromtWPF\PromtWPF\bin\Debug\EntityFramework.xml
+C:\Users\Student 3\source\repos\PromtWPF\PromtWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student 3\source\repos\PromtWPF\PromtWPF\obj\Debug\MainWindow.baml
+C:\Users\Student 3\source\repos\PromtWPF\PromtWPF\obj\Debug\PromtWPF.g.resources
+C:\Users\Student 3\source\repos\PromtWPF\PromtWPF\obj\Debug\PromtWPF.Properties.Resources.resources
+C:\Users\Student 3\source\repos\PromtWPF\PromtWPF\obj\Debug\PromtWPF.csproj.GenerateResource.cache
+C:\Users\Student 3\source\repos\PromtWPF\PromtWPF\obj\Debug\PromtWPF.csproj.CoreCompileInputs.cache
+C:\Users\Student 3\source\repos\PromtWPF\PromtWPF\obj\Debug\PromtWPF.csproj.Up2Date
