@@ -3,7 +3,7 @@ CREATE TABLE Users (
     Id INT IDENTITY(1,1) PRIMARY KEY,
     Username NVARCHAR(50) NOT NULL UNIQUE,
     [Password] NVARCHAR(255) NOT NULL,
-	RoleId int not null
+    RoleId int not null
 );
 
 CREATE TABLE Products (
@@ -12,7 +12,10 @@ CREATE TABLE Products (
     Price DECIMAL(10, 2) NOT NULL,
     [Description] NVARCHAR(MAX) NULL
 );
-create table Roles(
-RoleId int identity(1,1) primary key,
-RoleName nvarchar(50) not null unique
+    create table Roles(
+    RoleId int identity(1,1) primary key,
+    RoleName nvarchar(50) not null unique
 );
+ALTER TABLE Users 
+    ADD CONSTRAINT FK_Roles FOREIGN KEY (RoleId)
+    REFERENCES Roles(RoleId);
